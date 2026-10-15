@@ -4,7 +4,7 @@
 > Esimerkkivastaukset kopioit oman julkisen rajapintasi oikeista vastauksista (selain tai `curl.exe`/`curl`).
 
 
-**Tekijä / Author:** <Olli Luhtanen>
+**Tekijä / Author:** Olli Luhtanen
 **Julkinen osoite / Public URL:** `https://festival-api-festival-luhtanen.2.rahtiapp.fi/`
 **GitHub:** `https://github.com/Olli-Luhtanen/my-festival-api`
 **Tarkistimen tulos / Checker result:** `20/20 checks passed` (liitä koko tuloste palautukseen / attach the full output)
